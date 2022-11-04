@@ -4,7 +4,14 @@
 This is simply a training project
 
 
-first additions
+## Get to The Online Editor
 
-hello
+hit `.` on your Keyboard
 
+or change the url from github.com to github.dev
+
+
+## Important Plugins
+
+- live share
+- liascript-preview-we
